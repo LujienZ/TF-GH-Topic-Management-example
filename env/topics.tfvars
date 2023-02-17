@@ -17,6 +17,6 @@ topics = [
 ]
 
 service_account = {
-  name = "CC-WEBINAR"
+  name = "TerraForm_JZA"
   role = "CloudClusterAdmin"
 }
