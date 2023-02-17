@@ -2,7 +2,7 @@ environment = "env-xmmdjk"
 
 cluster = "lkc-nw61g6"
 
-rbac_enabled = true
+rbac_enabled = false
 
 topics = [
   {
