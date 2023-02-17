@@ -1,6 +1,6 @@
-environment = "env-q26337"
+environment = "env-xmmdjk"
 
-cluster = "lkc-oqzdj9"
+cluster = "lkc-nw61g6"
 
 rbac_enabled = true
 
