@@ -1,6 +1,6 @@
-environment = "env-q26337"
+environment = "env-xmmdjk"
 
-cluster = "lkc-oqzdj9"
+cluster = "lkc-nw61g6"
 
 rbac_enabled = true
 
@@ -11,12 +11,10 @@ topics = [
     config = {
       "delete.retention.ms" = "20000000"
     }
-    producer = "CC-WEBINAR"
-    consumer = "CC-WEBINAR"
   }
 ]
 
 service_account = {
-  name = "CC-WEBINAR"
+  name = "TerraForm_JZA"
   role = "CloudClusterAdmin"
 }

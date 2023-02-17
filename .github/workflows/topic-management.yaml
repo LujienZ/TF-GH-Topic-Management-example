@@ -11,7 +11,6 @@ env:
  TF_LOG: INFO
  TF_VAR_confluent_cloud_api_key: ${{ secrets.CCLOUD_API_KEY }}
  TF_VAR_confluent_cloud_api_secret: ${{ secrets.CCLOUD_API_SECRET }}
- GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
 jobs:
  terraform:
    name: "Terraform Infrastructure Change Management"
