@@ -11,8 +11,6 @@ topics = [
     config = {
       "delete.retention.ms" = "20000000"
     }
-    producer = "CC-WEBINAR"
-    consumer = "CC-WEBINAR"
   }
 ]
 
