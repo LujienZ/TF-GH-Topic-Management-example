@@ -6,13 +6,6 @@ rbac_enabled = false
 
 topics = [
   {
-    name       = "test_topic_1"
-    partitions = 4
-    config = {
-      "delete.retention.ms" = "20000000"
-    }
-  },
-  {
     name       = "eudonet.EudonetClient.synchro.Contact"
     partitions = 4
     config = {
